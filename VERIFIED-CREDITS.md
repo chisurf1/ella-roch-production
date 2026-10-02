@@ -2,7 +2,7 @@
 
 Status: **LOCKED** — Douglas voice 2026-10-01: University order Animal Farm → Star-Crossed → Julia De Burgos → Marion → Figaro → RED → Hunchback → Hänsel (details unchanged). Site and résumé must match this list only.
 
-Updated: 2026-10-01
+Updated: 2026-10-01 (Marion: The Musical year → 2026 per Douglas voice)
 
 | Show | Role | Company / venue | Year | Notes |
 | --- | --- | --- | --- | --- |
@@ -15,7 +15,7 @@ Updated: 2026-10-01
 | Animal Farm | Production Stage Manager | University of Michigan | 2026 |  |
 | Star-Crossed (staged reading) | Production Stage Manager | University of Michigan | 2026 |  |
 | Julia De Burgos: Child of Water | Assistant Stage Manager | Basement Arts, University of Michigan | 2026 | Douglas override Oct 1 2026 |
-| Marion: The Musical | Assistant Stage Manager | New Works Festival, UMich | 2025 |  |
+| Marion: The Musical | Assistant Stage Manager | New Works Festival, UMich | 2026 | Douglas voice: “Mary and the Musical” = 2026 |
 | The Marriage of Figaro | Assistant Stage Manager | University Productions / SMTD Voice & Opera | 2025 |  |
 | RED (John Logan) | Assistant Stage Manager | University Productions / SMTD Theatre & Drama, Newman Studio | 2025 | Oct 2025 · Douglas override Oct 1 2026 |
 | The Hunchback of Notre Dame | Assistant Stage Manager | MUSKET | 2025 |  |
