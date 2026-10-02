@@ -1,6 +1,6 @@
 # Ella Roch — verified credits (shared Code ↔ Ella SM)
 
-Status: **LOCKED** — Douglas voice 2026-10-01: University order Animal Farm → Julia De Burgos → Star-Crossed → RED (details unchanged). Site and résumé must match this list only.
+Status: **LOCKED** — Douglas voice 2026-10-01: University order Animal Farm → Star-Crossed → Julia De Burgos → Marion → Figaro → RED → Hunchback → Hänsel (details unchanged). Site and résumé must match this list only.
 
 Updated: 2026-10-01
 
@@ -13,15 +13,15 @@ Updated: 2026-10-01
 | She Loves Me | Assistant Stage Manager | Dunes Arts Summer Theatre, Michiana Shores, IN | 2025 |  |
 | Outside Mullingar | Assistant Stage Manager | Dunes Arts Summer Theatre, Michiana Shores, IN | 2025 |  |
 | Animal Farm | Production Stage Manager | University of Michigan | 2026 |  |
-| Julia De Burgos: Child of Water | Assistant Stage Manager | Basement Arts, University of Michigan | 2026 | Douglas override Oct 1 2026 |
 | Star-Crossed (staged reading) | Production Stage Manager | University of Michigan | 2026 |  |
-| RED (John Logan) | Assistant Stage Manager | University Productions / SMTD Theatre & Drama, Newman Studio | 2025 | Oct 2025 · Douglas override Oct 1 2026 |
-| The Marriage of Figaro | Assistant Stage Manager | University Productions / SMTD Voice & Opera | 2025 |  |
+| Julia De Burgos: Child of Water | Assistant Stage Manager | Basement Arts, University of Michigan | 2026 | Douglas override Oct 1 2026 |
 | Marion: The Musical | Assistant Stage Manager | New Works Festival, UMich | 2025 |  |
-| Hänsel und Gretel | Assistant Stage Manager | University Productions / SMTD Voice & Opera | 2025 |  |
+| The Marriage of Figaro | Assistant Stage Manager | University Productions / SMTD Voice & Opera | 2025 |  |
+| RED (John Logan) | Assistant Stage Manager | University Productions / SMTD Theatre & Drama, Newman Studio | 2025 | Oct 2025 · Douglas override Oct 1 2026 |
 | The Hunchback of Notre Dame | Assistant Stage Manager | MUSKET | 2025 |  |
+| Hänsel und Gretel | Assistant Stage Manager | University Productions / SMTD Voice & Opera | 2025 |  |
 
 ## Lock notes
 - “Upcoming” is a **section heading only** — not part of show titles.
-- University display order (Douglas voice Oct 1): **Animal Farm → Julia De Burgos → Star-Crossed → RED**, then remaining 2025 credits.
-- Details on each entry unchanged; order-only edit.
+- University display order (Douglas voice Oct 1): **Animal Farm → Star-Crossed → Julia De Burgos → Marion: The Musical → The Marriage of Figaro → RED → The Hunchback of Notre Dame → Hänsel und Gretel**.
+- Details unchanged; order-only edit. Spoken “Mary and the Musical” = Marion: The Musical.
