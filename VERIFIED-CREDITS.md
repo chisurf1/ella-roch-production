@@ -1,6 +1,6 @@
 # Ella Roch — verified credits (shared Code ↔ Ella SM)
 
-Status: **LOCKED** — Douglas override 2026-10-01: added Julia De Burgos + RED (ASM). Site and résumé must match this list only.
+Status: **LOCKED** — Douglas voice 2026-10-01: university order RED → Star-Crossed → Julia De Burgos (details unchanged). Site and résumé must match this list only.
 
 Updated: 2026-10-01
 
@@ -12,10 +12,10 @@ Updated: 2026-10-01
 | Avenue Q | Assistant Stage Manager | Dunes Arts Summer Theatre, Michiana Shores, IN | 2026 |  |
 | She Loves Me | Assistant Stage Manager | Dunes Arts Summer Theatre, Michiana Shores, IN | 2025 |  |
 | Outside Mullingar | Assistant Stage Manager | Dunes Arts Summer Theatre, Michiana Shores, IN | 2025 |  |
-| Animal Farm | Production Stage Manager | University of Michigan | 2026 |  |
-| Julia De Burgos: Child of Water | Assistant Stage Manager | Basement Arts, University of Michigan | 2026 | Douglas override Oct 1 2026 |
+| RED (John Logan) | Assistant Stage Manager | University Productions / SMTD Theatre & Drama, Newman Studio | 2025 | Oct 2025 · Douglas override Oct 1 2026 |
 | Star-Crossed (staged reading) | Production Stage Manager | University of Michigan | 2026 |  |
-| RED | Assistant Stage Manager | University Productions / SMTD Theatre & Drama, Newman Studio | 2025 | John Logan · Douglas override Oct 1 2026 |
+| Julia De Burgos: Child of Water | Assistant Stage Manager | Basement Arts, University of Michigan | 2026 | Douglas override Oct 1 2026 |
+| Animal Farm | Production Stage Manager | University of Michigan | 2026 |  |
 | The Marriage of Figaro | Assistant Stage Manager | University Productions / SMTD Voice & Opera | 2025 |  |
 | Marion: The Musical | Assistant Stage Manager | New Works Festival, UMich | 2025 |  |
 | Hänsel und Gretel | Assistant Stage Manager | University Productions / SMTD Voice & Opera | 2025 |  |
@@ -23,6 +23,7 @@ Updated: 2026-10-01
 
 ## Lock notes
 - “Upcoming” is a **section heading only** — not part of show titles.
+- University display order (Douglas voice Oct 1): **RED → Star-Crossed → Julia De Burgos**, then Animal Farm and remaining 2025 credits.
 - Animal Farm · PSM · University of Michigan · 2026 confirmed.
 - Dunes company string: “Dunes Arts Summer Theatre, Michiana Shores, IN”.
-- Oct 1 Douglas override: Julia De Burgos: Child of Water · ASM · Basement Arts, UMich · 2026; RED (John Logan) · ASM · University Productions / SMTD Theatre & Drama, Newman Studio · 2025. Prior IG-only omit closed.
+- Oct 1 Douglas override: Julia De Burgos + RED added; Star-Crossed role = Production Stage Manager.
