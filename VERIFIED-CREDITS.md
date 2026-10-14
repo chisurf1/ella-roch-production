@@ -6,7 +6,7 @@ Updated: 2026-10-01 (Marion: The Musical year → 2026 per Douglas voice)
 
 | Show | Role | Company / venue | Year | Notes |
 | --- | --- | --- | --- | --- |
-| Crumbs from the Table of Joy | Production Stage Manager | University Productions (faculty studio), Newman Studio | 2026 | Oct 8–10, 2026 · Upcoming section |
+| Crumbs from the Table of Joy | Production Stage Manager | University Productions (faculty studio), Newman Studio | 2026 | Oct 8–10, 2026 · University section (first) per Douglas Oct 13 |
 | West Side Story | First Assistant Stage Manager | MUSKET, Power Center | 2026 | Nov 20–22, 2026 · First West Side Story at MUSKET in 24 years · Upcoming section |
 | Jesus Christ Superstar in Concert | Production Stage Manager | Dunes Arts Summer Theatre, Michiana Shores, IN | 2026 |  |
 | Avenue Q | Assistant Stage Manager | Dunes Arts Summer Theatre, Michiana Shores, IN | 2026 |  |
@@ -23,5 +23,5 @@ Updated: 2026-10-01 (Marion: The Musical year → 2026 per Douglas voice)
 
 ## Lock notes
 - “Upcoming” is a **section heading only** — not part of show titles.
-- University display order (Douglas voice Oct 1): **Animal Farm → Star-Crossed → Julia De Burgos → Marion: The Musical → The Marriage of Figaro → RED → The Hunchback of Notre Dame → Hänsel und Gretel**.
+- University display order (Douglas Oct 13): **Crumbs from the Table of Joy → Animal Farm → Star-Crossed → Julia De Burgos → Marion: The Musical → The Marriage of Figaro → RED → The Hunchback of Notre Dame → Hänsel und Gretel**.
 - Details unchanged; order-only edit. Spoken “Mary and the Musical” = Marion: The Musical.
