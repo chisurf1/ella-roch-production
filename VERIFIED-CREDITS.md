@@ -8,6 +8,7 @@ Updated: 2026-10-01 (Marion: The Musical year → 2026 per Douglas voice)
 | --- | --- | --- | --- | --- |
 | Crumbs from the Table of Joy | Production Stage Manager | University Productions (faculty studio), Newman Studio | 2026 | Oct 8–10, 2026 · University section (first) per Douglas Oct 13 |
 | West Side Story | First Assistant Stage Manager | MUSKET, Power Center | 2026 | Nov 20–22, 2026 · First West Side Story at MUSKET in 24 years · Upcoming section |
+| An American in Paris | Assistant Stage Manager | SMTD Department of Musical Theatre, Power Center | 2027 | April 2027 (Fri Apr 23 performance seen) · Upcoming section · Douglas Oct 15 |
 | Jesus Christ Superstar in Concert | Production Stage Manager | Dunes Arts Summer Theatre, Michiana Shores, IN | 2026 |  |
 | Avenue Q | Assistant Stage Manager | Dunes Arts Summer Theatre, Michiana Shores, IN | 2026 |  |
 | She Loves Me | Assistant Stage Manager | Dunes Arts Summer Theatre, Michiana Shores, IN | 2025 |  |
