@@ -57,6 +57,5 @@ No personal email or phone appears on the résumé or this site. To add email la
 
 
 ## Contact on site
-- Email: ellaroch@umich.edu
-- Phone: +1 (269) 405-2321
+- Email: ellaroch27@gmail.com
 - Instagram: @ellaroch.production
