@@ -57,5 +57,5 @@ No personal email or phone appears on the résumé or this site. To add email la
 
 
 ## Contact on site
-- Email: ellaroch27@gmail.com
+- Email: ella@ellaroch.com
 - Instagram: @ellaroch.production
